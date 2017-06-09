@@ -1,0 +1,1 @@
+" approaches are disclosed for removing or reducing metal artifacts in reconstructed images. the approaches include creating a metal mask in the projection domain, interpolating data within the metal mask, and perform a reconstruction using the interpolated data. in certain embodiments the metal structure is separately reconstructed and combined with the reconstructed volume."
